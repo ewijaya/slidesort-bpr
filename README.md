@@ -1,9 +1,18 @@
 SLIDESORT-BPR
 ==========================
-Copyright &copy; 2013 Kana Shimizu. All rights reserved.
+Chromosomal rearrangement events are caused by abnormal breaking and rejoining
+of DNA molecules. They are responsible for many of the cancer related
+diseases. Detecting the DNA breaking and repairing mechanism, therefore, may
+offer vital clues about the pathologic causes and diagnostic/therapeutic
+target of these diseases. But this effort also poses considerable challenges,
+because the structural variations and the genomes are different from one
+person to another. Intermediate comparison via reference genome could lead to
+the loss information. Unlike the current methods which make use the reference
+genome, we developed a method to detect the breakpoint reads directly from
+observing the differences between two (or more) NGS short reads samples.
+Slidesort-BPR is a command line tool implemented in C++.
 
-Slidesort-BPR (Break Point Reads) detector is a reference-free method for
-detecting clusters of breakpoints reads from the chromosomal rearrangements.
+
 
 Input format
 ------------
