@@ -79,3 +79,7 @@ Advanced options:
 -mp number of tasks (multi-threading mode)
 -mr ratio of tasks(<number of tasks> = <number of threads> * <this value>) (multi-threading mode)
 ```
+
+## Publication
+Edward Wijaya, Kana Shimizu, Kiyoshi Asai and Michiaki Hamada, *Reference-free prediction of rearrangement breakpoint reads*,(2014), Bioinformatics, 30(18):2559-67.
+[PMID:24876376](http://www.ncbi.nlm.nih.gov/pubmed/24876376)
